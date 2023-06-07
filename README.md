@@ -34,6 +34,7 @@ Output Report :
 11. Show data with tools dashboard as a report (optional but point plus)
 
 Table Specification
+
 Dimension table
 1. Province table
   a. province_id
