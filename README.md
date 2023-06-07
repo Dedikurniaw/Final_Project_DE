@@ -33,28 +33,32 @@ Output Report :
 
 11. Show data with tools dashboard as a report (optional but point plus)
 
-Table Specification
+Table Specification :
 
 Dimension table
-1. Province table
+1. Province table  
   a. province_id
   b. province_name
-2. District table
+
+2. District table 
   a. district_id
   b. province_id
   c. district_name
-3. Case table
+
+3. Case table 
   a. Id
   b. Status name (suspect, closecontact, probable, confirmation)
   c. Status detail
 
 Fact table
-1. Province Daily Table
+
+1. Province Daily Table  
   a. Id (auto generate)
   b. province_id
   c. case_id
   d. date
   e. total
+
 2. District Daily Table
   a. Id (auto generate)
   b. district_id
