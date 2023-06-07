@@ -2,6 +2,7 @@
 Dockerize ETL Pipeline using ETL tools Airflow
 
 Project Steps
+
 Config tools:
 1. Create Docker (MySQL, Airflow and PostgreSQL) in your local computer
 2. Create Database in MySQL and PostgreSQL
