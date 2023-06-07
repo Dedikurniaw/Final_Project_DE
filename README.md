@@ -23,7 +23,7 @@ Transform and Load:
 
 Schedule :
 
-10.Create DAG with schedule daily basis with task:
+10. Create DAG with schedule daily basis with task:
   a. get data from api
   b. generate dimension
   c. province daily
