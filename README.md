@@ -17,6 +17,7 @@ Transform and Load:
 9. Create script for aggregate District Daily save to District Daily Table
 
 Schedule :
+
 10.Create DAG with schedule daily basis with task:
   a. get data from api
   b. generate dimension
