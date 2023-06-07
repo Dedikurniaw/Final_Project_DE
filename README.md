@@ -15,12 +15,14 @@ Transform and Load:
 7. Create load data to Dimension table
 8. Create script for aggregate Province Daily save to Province Daily Table
 9. Create script for aggregate District Daily save to District Daily Table
+
 Schedule
 10.Create DAG with schedule daily basis with task:
 a. get data from api
 b. generate dimension
 c. province daily
 d. district daily
+
 Output Report
 11. Show data with tools dashboard as a report (optional but point plus)
 
